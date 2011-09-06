@@ -1,3 +1,4 @@
+//just a test
 ﻿(function () {
     var rl = window.ResourceLoader = function () {
         this.resourceList = new Array();
